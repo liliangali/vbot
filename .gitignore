@@ -1,0 +1,9 @@
+/vendor/
+/log/*
+!/log/.gitignore
+composer.lock
+example
+/tmp
+.idea/
+
+
